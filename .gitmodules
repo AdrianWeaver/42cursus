@@ -1,0 +1,69 @@
+[submodule "libft"]
+	path = libft
+	url = git@github.com:AdrianWeaver/libft.git
+[submodule "born2beroot"]
+	path = born2beroot
+	url = git@github.com:AdrianWeaver/Born2beroot.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:AdrianWeaver/ft_printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:AdrianWeaver/get_next_line.git
+[submodule "fdf"]
+	path = fdf
+	url = https://github.com/AdrianWeaver/fdf
+[submodule "pipex"]
+	path = pipex
+	url = https://github.com/AdrianWeaver/pipex
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/AdrianWeaver/push_swap
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/AdrianWeaver/minishell
+[submodule "philo"]
+	path = philo
+	url = https://github.com/AdrianWeaver/philo
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/AdrianWeaver/cub3d
+[submodule "ft_irc"]
+	path = ft_irc
+	url = https://github.com/Elena-lou/ft_irc
+[submodule "inception"]
+	path = inception
+	url = https://github.com/AdrianWeaver/inception
+[submodule "transcendence"]
+	path = transcendence
+	url = https://github.com/42rave/transcendence
+[submodule "rush_libunit"]
+	path = rush_libunit
+	url = https://github.com/AdrianWeaver/rush_libunit
+[submodule "rush_AlCu"]
+	path = rush_AlCu
+	url = https://github.com/AdrianWeaver/rush_AlCu
+[submodule "rush_2048"]
+	path = rush_2048
+	url = https://github.com/AdrianWeaver/rush_2048
+[submodule "rush_yasl"]
+	path = rush_yasl
+	url = https://github.com/AdrianWeaver/rush_yasl
+[submodule "rush_wordle"]
+	path = rush_wordle
+	url = https://github.com/AdrianWeaver/rush_wordle
+[submodule "rush_connect4"]
+	path = rush_connect4
+	url = https://github.com/AdrianWeaver/rush_connect4
+[submodule "rush_shmup"]
+	path = rush_shmup
+	url = https://github.com/AdrianWeaver/rush_shmup
+[submodule "libasm"]
+	path = libasm
+	url = https://github.com/AdrianWeaver/libasm
+[submodule "dr_quine"]
+	path = dr_quine
+	url = https://github.com/AdrianWeaver/dr_quine
+[submodule "nm"]
+	path = nm
+	url = https://github.com/AdrianWeaver/nm
