@@ -1,6 +1,6 @@
 # 42 Cursus Projects
 
-My projects at school 42.
+My projects at  [school 42](https://42.fr/en/homepage/).
 
 
 ## Common core projects
