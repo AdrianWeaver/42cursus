@@ -71,4 +71,4 @@ git submodule update --init --recursive
 
 ---
 
-Forked from the work done by the Amazing mcombeau: visit her at [github/mcombeau](https://github.com/mcombeau) |  (Website: [codequoi.com](https://www.codequoi.com)
+Forked from the work done by the Amazing mcombeau: visit her at [github/mcombeau](https://github.com/mcombeau) Website: [codequoi.com](https://www.codequoi.com)
