@@ -50,6 +50,8 @@ Several projects are kept hidden for security reasons or to avoid other students
 | 3   | override                       | ![override top language](https://img.shields.io/badge/-private-red)                       | ![override grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)            | Practicing on binary vulnerabilities and how to exploit them. | 
 | 4   | [dr_quine](https://github.com/AdrianWeaver/dr_quine)                       | ![dr_quine top language](https://img.shields.io/github/languages/top/AdrianWeaver/dr_quine?style=flat-square)                       | ![dr_quine grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)            | An auto-replicant program in C, Assembly and Python | 
 | 5   | [nm](https://github.com/AdrianWeaver/nm)                       | ![nm top language](https://img.shields.io/github/languages/top/AdrianWeaver/nm?style=flat-square)                       | ![nm grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)            | Re-implementing GNU-nm to parse Executable and Linkable Format files. | 
+| 6   | badass                       | ![badass top language](https://img.shields.io/badge/-private-red)                       | ![badass grade](https://img.shields.io/badge/in%20progress-blue)            | Simulating a BGP network with docker images. Team project |
+| 7   | woody_woodpacker             | ![woody_woodpacker top language](https://img.shields.io/badge/-private-red)                       | ![woody_woodpacker grade](https://img.shields.io/badge/in%20progress-blue)            | Creating a packer for ELF, compressing and encrypting a binary. Team project |
 
 
 ## Usage
