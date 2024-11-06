@@ -52,6 +52,7 @@ Several projects are kept hidden for security reasons or to avoid other students
 | 5   | [nm](https://github.com/AdrianWeaver/nm)                       | ![nm top language](https://img.shields.io/github/languages/top/AdrianWeaver/nm?style=flat-square)                       | ![nm grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)            | Re-implementing GNU-nm to parse Executable and Linkable Format files. | 
 | 6   | badass                       | ![badass top language](https://img.shields.io/badge/-private-red)                       | ![badass grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42)            | Simulating a BGP network with docker images. Team project. |
 | 7   | woody_woodpacker             | ![woody_woodpacker top language](https://img.shields.io/badge/-private-red)                       | ![woody_woodpacker grade](https://img.shields.io/badge/in%20progress-blue)            | Creating a packer for ELF, compressing and encrypting a binary. Team project. |
+| 8   | famine | ![famine top language](https://img.shields.io/badge/-private-red)                       | ![famine grade](https://img.shields.io/badge/in%20progress-blue)            | Creating a simple ELF replicating virus. |
 
 
 ## Usage
